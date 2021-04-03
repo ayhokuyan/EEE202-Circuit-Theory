@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Ayhan\Desktop\Bilkent EE\Bilkent EE 2017-2018 Spring\EEE202\Lab1\SowtwareLab1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Feb 09 05:22:50 2018
+Total elapsed time: 0.219 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2085
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1:      13 opcodes  0.4/[0.2]/0.3
+Matrix Compiler2: 492 bytes object code size  0.3/0.4/[0.2]
+
