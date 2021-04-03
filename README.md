@@ -30,11 +30,11 @@ Both software and hardware lab implementations for CS461 Artificial Intelligence
 - **Software**:
 	-  Design and verify using LTSpice. 
 - **Hardware**:
-	- Implemented the circuit and recorded the results using an oscilloscope.
+	- Implemented the circuit and recorded the results.
 
 ### Lab 5
 - Design a band-pass filter. 
 - **Software**:
 	-  Design and verify using LTSpice. 
 - **Hardware**:
-	- Implemented the circuit and recorded the results using an oscilloscope.
+	- Implemented the circuit and recorded the results.
